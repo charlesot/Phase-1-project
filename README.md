@@ -33,13 +33,19 @@ The data set is publicly available from the National Transportation Safety Board
 * The highest number of aircraft accidents occur in private airstrips 
 * The aviation maker with the highest accident count is Cessna, model 172, and Aviation Engine type of reciprocating 
 
+![alt text](image-2.png)
+
+
 2. Aeroplane and Helicopter accidents in the USA 
 * There was a long period of no accidents from 1983  to 1996, but from 2000 to 2008 there was a progressive increase, after that, there was a minimal reduction in the number of accidents.
-* Most of the accidents occur in July  and during the weekend ( Saturday and Sunday)
+* ![alt text](image-1.png)Most of the accidents occur in July  and during the weekend ( Saturday and Sunday)
 
 3. Safest Aeroplane and airport 
 * The Safest airport is Pvt Gibson Flying Service 
 * The Safest Airplane model is Ru 12
+![alt text](image-3.png)
+
+For Additional visualizations see the https://public.tableau.com/views/Aviation-Project-2024/AviationaccidentsintheUSA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
 ### Key recommendations
 * Establish  operations from safer commercial airports
